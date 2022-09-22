@@ -22,12 +22,12 @@
 
 ---
 ### :man_technologist: About Me :
-- 🥑 I currently work as a Senior Cloud Advocate contributing to the advancement and adoption of Microsoft technologies among students in Africa.
+- 🥑 I am a Data Analsyt 
 - ✍️ I create learning contents on Data and Tech - Modern Workplace, Low-Code/No-Code Development, Data Science, Machine Learning and Artificial Intelligence
 - ⚡ I am available for speaking engagement on student empowerment
-- 🚴 In my free time, I love riding bicycle.
-- ⚽ A proud Manchester City fan
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theoyinbooke)
+- 🚴 In my free time, I watch movies.
+- ⚽ A proud Chelsea fan
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theadewole)
 
 ---
 
@@ -49,22 +49,8 @@
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theoyinbooke&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theoyinbooke&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
-## Some Videos from my YouTube Channel
-<a href="https://youtu.be/SLxfHfDhgjI" target="_blank">
- <img src="http://img.youtube.com/vi/SLxfHfDhgjI/hqdefault.jpg" alt="My Soup Story" border="10" />
-</a>
-<a href="https://youtu.be/9jTJ--DUmYU" target="_blank">
- <img src="http://img.youtube.com/vi/9jTJ--DUmYU/hqdefault.jpg" alt="Jollof Rice Story" border="10" />
-</a>
-<a href="https://youtu.be/SqDZbvxHbZo" target="_blank">
- <img src="http://img.youtube.com/vi/SqDZbvxHbZo/hqdefault.jpg" alt="30Days of Learning for Student the video" border="10" />
-</a>
-<a href="https://youtu.be/Xb-q8Rwdv_s" target="_blank">
- <img src="http://img.youtube.com/vi/Xb-q8Rwdv_s/hqdefault.jpg" alt="Nuggets for Beginner Data Analyst and Scientists" border="10" />
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theadewole&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theadewole&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Don't Miss My Twitter Activities
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=theoyinbooke)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=theadewole)](https://github.com/gazf/github-readme-twitter)
