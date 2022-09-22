@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/theoyinbooke/theoyinbooke/blob/main/TheOyinbookedynamicsCon.JPG" width="550" height="550"/>
+  <img src="https://github.com/theadewole/theadewole/blob/main/TheOyinbookedynamicsCon.JPG" width="550" height="550"/>
 </div>
 
 ---
