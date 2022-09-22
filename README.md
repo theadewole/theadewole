@@ -10,14 +10,14 @@
   </a>
 </div>
 <div id="badges2" align="center">
-<img src="https://komarev.com/ghpvc/?username=theoyinbooke&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=theadewole&style=flat-square&color=blue" alt=""/>
 <h1>
  Hello,  Welcome to my Github Profile Page
 </h1>
 </div>
 
 <div align="center">
-  <img src="https://github.com/theadewole/theadewole/blob/main/TheOyinbookedynamicsCon.JPG" width="550" height="550"/>
+  <img src="https://github.com/theadewole/theadewole/blob/main/theadewole.jpg" width="480" height="632"/>
 </div>
 
 ---
@@ -35,7 +35,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SqlServer" alt="MS SqlServer" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/excel-original.svg" title="excel"  alt="excele" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
