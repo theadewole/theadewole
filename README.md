@@ -22,9 +22,8 @@
 
 ---
 ### :man_technologist: About Me :
-- 🥑 I am a Data Analsyt 
-- ✍️ I create learning contents on Data and Tech - Modern Workplace, Low-Code/No-Code Development, Data Science, Machine Learning and Artificial Intelligence
-- ⚡ I am available for speaking engagement on student empowerment
+- 🖥 Im a data Analyst, I do Data Analysis, Data Visualization, Data storytelling 
+- ✍️ I create static and dynamic reports 
 - 🚴 In my free time, I watch movies.
 - ⚽ A proud Chelsea fan
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theadewole)
