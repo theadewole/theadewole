@@ -22,15 +22,16 @@
 
 ---
 ### :man_technologist: About Me :
-- 🖥 Im a data Analyst, I do Data Analysis, Data Visualization, Data storytelling 
-- ✍️ I create static and dynamic reports 
-- 🚴 In my free time, I watch movies.
+- 🖥 I'm a data Analyst, I do Data Analysis, Data Visualization, Data storytelling 
+- 📊 I create static and dynamic reports 
+- 🤝 I'm open to collaboration
+- 🎥 In my free time, I watch movies.
 - ⚽ A proud Chelsea fan
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theadewole)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :O
 <div>
   <img src="ex.png" title="Java" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SqlServer" alt="MS SqlServer" width="40" height="40"/>&nbsp;
