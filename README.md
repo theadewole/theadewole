@@ -34,6 +34,7 @@
 ### :hammer_and_wrench: Languages and Tools :O
 <div>
   <img src="ex.png" title="Java" alt="Excel" width="40" height="40"/>&nbsp;
+   <img src="download.png" title="Java" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SqlServer" alt="MS SqlServer" width="40" height="40"/>&nbsp;
   <img src="bi.png" title="excel"  alt="PowerBi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
