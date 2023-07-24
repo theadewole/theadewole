@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/theadewole/theadewole/blob/main/theadewole.jpg" width="480" height="480"/>
+  <img src="https://github.com/theadewole/theadewole/blob/main/DEX_2001.JPG" width="480" height="480"/>
 </div>
 
 ---
