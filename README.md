@@ -22,8 +22,8 @@
 
 ---
 ### :man_technologist: About Me :
-- 🖥 I'm a data Analyst, I do Data Analysis, Data Visualization, Data storytelling 
-- 📊 I create static and dynamic reports 
+- 🖥 I'm a data Analyst | Statistical Programmer | Clinical SAS Progrogrammer, I do Data Analysis, Data Visualization, Data Storytelling 
+- 📊 I create static and dynamic reports | I Annotate CRF | I Develop CDISC Dataset (SDTM and ADaM) | I Create Tables Listing and Figures (TFLs)
 - 🤝 I'm open to collaboration
 - 🎥 In my free time, I watch movies.
 - ⚽ A proud Chelsea fan
